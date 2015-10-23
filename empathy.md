@@ -1,3 +1,4 @@
+Dont read this yet, I'm not finished! :)
 
 tell us what you think of the idea of an empathic civilization. Is it possible? How would we work 
 towards that goal? What stumbling blocks do you see? Is this something you believe is worth your 
