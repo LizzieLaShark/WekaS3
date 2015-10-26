@@ -1,6 +1,5 @@
-Dont read this yet, I'm not finished! :)
 
-tell us what you think of the idea of an empathic civilization. Is it possible? How would we work 
+Tell us what you think of the idea of an empathic civilization. Is it possible? How would we work 
 towards that goal? What stumbling blocks do you see? Is this something you believe is worth your 
 time and effort to pursue? What are the possible downsides of pursuing it? Of not pursuing it? (15 minutes)
 
@@ -29,12 +28,13 @@ place this comes from. In fact, I experience it myself often though I choose not
 people who really are trying to do good. I have wondered if aspects of agile management could be applied to our 
 changemaking as it can be very condusive to innovation (and no, I dont mean innovation in the business sense!). 
 
-Nation state empathy, look same, speak same language and only applicable comparitively, not in everyday life.
+Nation state empathy: Maybe easier to extend empathy to people who look same, speak same language. I also think this may only applicable comparitively, not in everyday life.
 
 Education
 governance
 business
 Parenting
+We need to rethink these things 100% change the very core of how we do them, especially business and governance. I'm not convinced social enterprise goes far enough but I'm curious to see how it's taking off.
 
-Empathy first? Chicken or egg?
-Extending empathy.
+Empathy first? Chicken or egg situation? Do we need to first change structures and then we will see empathy come more easily?
+
