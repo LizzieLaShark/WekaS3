@@ -17,7 +17,7 @@ Objectives:
       -Local councils outside of Taranaki should be able to see from the website that such movements are likely to
       arise in their areas if they follow the same course as Taranaki council.
 
-  -Professional landing page for people wanting to donate to the court case which the group has launched. 
+  -Landing page for people wanting to donate to the court case which the group has launched. 
       -Donors will see a sleek and beautiful website and feel increased confidence in their investment in the group
       as a result.
 
