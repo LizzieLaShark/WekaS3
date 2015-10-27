@@ -1,7 +1,7 @@
 Taranaki Energy Watch Website
 
 The website will provide an online landing page for the group; offering information, a chance to get involved 
-& inspiring a feeling of community commitment against fossil fuel extraction in Taranaki.
+& inspiring a feeling of community commitment against fossil fuel extraction in the Taranaki region and beyond.
 
 Objectives:
 
@@ -13,7 +13,7 @@ Objectives:
 
   -Increase percieved power  
       -councils and fossil fuel companies understand that the opposition in Taranaki is quite large and
-      is organised, full of xperienced grassroots activists (rather than what it currently looks like: a few             passionate oldies who cant even put a website together). 
+      is organised, full of experienced grassroots activists (rather than what it currently looks like: a few             passionate oldies who cant quite pull a website together). 
       -Local councils outside of Taranaki should be able to see from the website that such movements are likely to
       arise in their areas if they follow the same course as Taranaki council.
 
